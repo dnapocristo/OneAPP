@@ -1,0 +1,1 @@
+insert into agenda.user(email,nickname,password,nome,cognome,eta,sesso)values(?,?,md5(?),?,?,?,?)
